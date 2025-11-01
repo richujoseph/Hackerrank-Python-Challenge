@@ -9,4 +9,5 @@ else:
         print("Weird")
     else:
         print("Not Weird")
+#for my leaning references
 
